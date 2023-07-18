@@ -1,12 +1,12 @@
 
 import random
 
-a1 = 'python'
-a2 = 'exceto'
-a3 = 'mister'
-a4 = 'script'
+palavra1 = 'python'
+palavra2 = 'exceto'
+palavra3 = 'mister'
+palavra4 = 'script'
 
-lista = [a1, a2, a3, a4]
+lista = [palavra1, palavra2, palavra3, palavra4]
 
 palavra = random.choice(lista)
 letra_acertada = ''
